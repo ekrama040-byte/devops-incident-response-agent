@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite local databases generated during testing
+*.db
+
+# Virtual environments
+venv/
+env/
+.venv/
